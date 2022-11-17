@@ -29,7 +29,6 @@
 					<td><input type="text" class="form-control" name="lastName"></td>
 				</tr>		
 			</table>
-			<a class="btn btn-dark" href="<%=request.getContextPath()%>/insertMemberForm.jsp">회원가입</a>	
 			<button type="submit" class="btn btn-secondary">로그인</button>
 		</form>
 	</div>
